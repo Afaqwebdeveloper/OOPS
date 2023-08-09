@@ -1,0 +1,16 @@
+my_list=[1,2,6,3]
+
+type(my_list)
+
+len(my_list)
+
+sum(my_list)
+
+A=dict()
+
+print(type(1))
+print(type([]))
+print(type(()))
+print(type({}))
+
+
